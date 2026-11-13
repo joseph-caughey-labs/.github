@@ -4,6 +4,7 @@ Open-source and product engineering from [Joseph Caughey](https://github.com/jos
 
 - [DirectiveAI](https://github.com/joseph-caughey-labs/DirectiveAI): compiles structured directives in a repo into scoped, policy-gated, auditable branches. TypeScript.
 - [spec-eval](https://github.com/joseph-caughey-labs/spec-eval): grades LLM output against a written spec, with deterministic checks first and a cached model judge. Python.
+- [schema-guard](https://github.com/joseph-caughey-labs/schema-guard): reports breaking changes between two versions of a JSON Schema or OpenAPI component, judged by which way the data flows. Go.
 - [ai-agent-framework](https://github.com/joseph-caughey-labs/ai-agent-framework): agents with pluggable providers, memory and tools. TypeScript.
 - [airport-inspection-platform](https://github.com/joseph-caughey-labs/airport-inspection-platform): layered validation with human review and a tamper-evident audit trail. TypeScript.
 
