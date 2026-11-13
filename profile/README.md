@@ -10,6 +10,7 @@ Open-source and product engineering from [Joseph Caughey](https://github.com/jos
 
 ### Libraries
 
+- [ledger-core](https://github.com/joseph-caughey-labs/ledger-core): double-entry ledger with exact money arithmetic, checked with property-based tests. Rust.
 - [provably-fair-engine](https://github.com/joseph-caughey-labs/provably-fair-engine): verifiable randomness with HMAC-SHA256 and unbiased draws. TypeScript.
 - [algorithms-ts](https://github.com/joseph-caughey-labs/algorithms-ts): data structures and algorithms with tests and benchmarks. TypeScript.
 - [web-patterns-cookbook](https://github.com/joseph-caughey-labs/web-patterns-cookbook): auth, webhooks, pagination and other web patterns. TypeScript.
